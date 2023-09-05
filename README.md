@@ -1,5 +1,5 @@
 
-![Header](./[github-header-image.png])
+<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png"> </div>
 
 <h1 align="center">Hi 👋, I'm Pranav Malkar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
